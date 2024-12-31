@@ -23,8 +23,8 @@ The problems will cover various topics including but not limited to:
 ## 🚀 Features
 
 - Solutions written in either **Python** or **Golang**.
-- Comprehensive explanations for each approach.
-- References to official problem statements.
+- Explanations for each approach.
+- References to official problems from each site respectively. 
 
 ---
 ## 📂 Repository Structure
@@ -32,7 +32,6 @@ The problems will cover various topics including but not limited to:
 The repository is organized as follows.
 
 ```plaintext
-.
 ├── NeetCode/
 │   ├── Arrays/
 │   ├── Strings/
