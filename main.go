@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Print("MAIN")
-	fmt.Print(hashmaps.CanConstruct("aa", "abc"))
+	fmt.Println("Sample Test Case:")
+	fmt.Printf("Hashmaps: RansomNote Result: %v\n", hashmaps.CanConstruct("aa", "abc"))
 }
